@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @meganrallen
-- 👀 I’m interested in Data Analytics and Software Engineering
-- ⭐️ I’m proficient in Python and Java
-- 🧠 I have completed Harvard University EdX CS50 and Trinity College CPSC-115 Introduction to Computing
-- 🌱 I’m currently learning CPSC-215: Data Structures and Algorithms
-- 📫 How to reach me: megan.allen@trincoll.edu, www.linkedin.com/in/meganrallen/, or www.meganrallen.domains.trincoll.edu 
+- 👀 I’m interested in Data Analytics, Software Engineering, Web Development, and Project Management
+- ⭐️ I’m proficient in Python, Java, MATLAB, and C
+- 🧠 I've completed Harvard University's EdX CS50 and Trinity College's CPSC-115 Introduction to Computing, CPSC-203 Mathematical Foundations of Computing, CPSC-215 Data Structures and Algorithms, CPSC-275 Introduction to Computer Systems, and CPSC-320 Analysis of Algorithms
+- 🌱 I’m currently learning CPSC-333 Computer Networks and CPSC-415 Building Cloud Native
+- 📫 How to reach me: megan.allen@trincoll.edu or www.linkedin.com/in/megrallen/ 
 
 <!---
 meganrallen/meganrallen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
